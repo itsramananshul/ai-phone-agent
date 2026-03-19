@@ -45,6 +45,9 @@ $1/month for Twilio number. Everything else is free.
 
 
 TWILIO_ACCOUNT_SID=your_twilio_account_sid_here
+
 TWILIO_AUTH_TOKEN=your_twilio_auth_token_here
+
 PUBLIC_URL=your_ngrok_url_here
+
 PORT=3000
