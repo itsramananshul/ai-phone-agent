@@ -1,0 +1,6 @@
+.env
+node_modules/
+static/
+temp_recording.wav
+__pycache__/
+*.pyc
